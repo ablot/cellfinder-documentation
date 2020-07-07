@@ -14,7 +14,7 @@ In the future, other atlases will be available, and you will be able to choose w
 
 If you want to modify the cellfinder download, use:
 
-* `--atlas-install-path` Supply a path to download the atlas elsewhere. This 
+* `--install-path` Supply a path to download the atlas elsewhere. This 
 
   should also update the default `cellfinder.conf` file so that the correct 
 
@@ -24,7 +24,7 @@ If you want to modify the cellfinder download, use:
 
   disk space\)
 
-* `--atlas download path` The path to download the atlas into. 
+* `--download-path` The path to download the atlas into. 
 
   \(Requires 1.2GB disk space\). Defaults to `/tmp`.
 
